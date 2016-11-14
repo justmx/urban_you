@@ -11,3 +11,6 @@ notes.txt
 /log/*
 !/log/.keep
 /tmp
+state.txt
+node_modules
+webpack.config.bk.js

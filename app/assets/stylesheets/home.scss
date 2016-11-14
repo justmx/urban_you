@@ -1,0 +1,54 @@
+$black: #000000;
+
+#react {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  // color: #4d4d4d;
+  min-width: 550px;
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+#resultbox {
+  background-color: #ddd;
+  border-color: black;
+  border-width: 2px;
+  width: 15em;
+  height: 20em;
+//  color: #ddd;
+  padding-left: 20px;
+    /*padding: 20px;*/
+  text-align: left;
+  margin-top: 30px;
+}
+
+#totalhour {
+  margin-top: 5em;
+}
+
+#totalprice {
+  position: absolute;
+  bottom: 0;
+}
+
+#success {
+    text-align: center;
+    margin-top: 20px
+}
+
+#info {
+  margin-top: 10px
+}
